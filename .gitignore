@@ -1,0 +1,6 @@
+## this is to prevent tracking of files created from the base64 script
+**/convert_pictures/*
+**/resources/*
+# This allows the folder to still be published in the repository for the base64 script
+!**/convert_pictures/.gitkeep*
+!**/resources/.gitkeep*
